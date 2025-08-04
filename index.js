@@ -9,7 +9,7 @@ app.use(express.urlencoded({ extended: true }));
 
 // Routes
 app.get('/', (req, res) => {
-  res.send('Hello n8n !!! Automation Deploy :) ');
+  res.send('Hello n8n !!! hooo :) ');
 });
 
 // Start server
